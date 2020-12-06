@@ -8,5 +8,3 @@ dependencies:
   - matplotlib
   - scipy
   - cartopy
-  - cartopy.feature
-  - cartopy.crs
