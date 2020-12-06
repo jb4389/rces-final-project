@@ -7,3 +7,6 @@ dependencies:
   - xarray
   - matplotlib
   - scipy
+  - cartopy
+  - cartopy.feature
+  - cartopy.crs
